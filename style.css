@@ -1,0 +1,45 @@
+img{
+    border-image-repeat: round;
+    align-self: center;
+    width: 350px;
+    height: 300px;
+    float: right;
+    flex: auto;
+}
+body{
+    background-color: beige;
+}
+h1{
+    color: brown;
+    text-decoration: solid;
+    text-align: center;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    font-style: normal;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    margin-right:450px;
+    background-origin: padding-box;
+    padding-inline: 20px;
+    font-variant: normal;
+    font-size: 20px;
+    font-weight: bold;
+    text-overflow: unset;
+    text-decoration: double;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: dotted;
+}
+form{
+    text-align: center;
+    font-size: larger;
+}
+nav{
+    text-align: justify;
+    font-size: x-large;
+    font-weight: bold;
+}
+li{
+    list-style-type: square;
+}
